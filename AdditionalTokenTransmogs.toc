@@ -1,10 +1,9 @@
-## Interface: 120000, 120001
+## Interface: 120000
 ## Title: Additional Token Transmogs
 ## Notes: Adds tooltips to check various non tier-tokens for collected transmog appearance 
-## Author: YourNameHere
-## Version: 1.0.0
-## SavedVariables: AdditionalTokenTransmogsDB
-## IconTexture: Interface\Icons\INV_Chest_Leather_01
+## Author: de-beep
+## Version: 1.0.1
+## IconTexture: Interface\Icons\INV_Bracer_Cloth_Raidmagemythic_O_01
 
 ## Category-enUS: Collections
 ## Category-deDE: Kriegsmeutesammlungen
